@@ -34,7 +34,7 @@ This is a simple Python project to manage daily tasks using JSON-based storage. 
 4.Exit: Quit the program.
 
 ## file Structure
-todo-list/
+To Do project
 ├── todo.py        
 ├── tasks.json     
 ├── README.md    

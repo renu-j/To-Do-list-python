@@ -26,16 +26,19 @@ This is a simple Python project to manage daily tasks using JSON-based storage. 
 
 ## Usage
 1.Add Task: Enter task details (title, due date, time, priority) when prompted.
+
 2.View Tasks: Displays all tasks with due dates, times, and priority levels.
+
 3.Search Task: Search tasks by typing a keyword from the task title.
+
 4.Exit: Quit the program.
 
 ## file Structure
 todo-list/
-├── todo.py         # Main Python program with all task functions
-├── tasks.json      # JSON file storing tasks
-├── README.md       # Project description
-└── .gitignore      # Optional: files to ignore in Git
+├── todo.py        
+├── tasks.json     
+├── README.md    
+└── .gitignore     
 
 ## Author
 -Renu Joshi
